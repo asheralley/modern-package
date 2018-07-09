@@ -1,0 +1,2 @@
+<a class="gdlr-button medium" href="#" target="_self" style="color:#ffffff; background-color:#4fbed6; ">Click Me</a>
+bottom section re-layout
